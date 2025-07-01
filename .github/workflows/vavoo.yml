@@ -29,6 +29,8 @@ jobs:
 
       - name: Alive 1
         run: curl https://kerimmkirac-vavoo.hf.space/
+        name: Alive 2
+        run: curl https://tinyurl.com/me6rpwmh/m3u?url=
 
       - name: Vavoo Tr
         run: python vavoo.py

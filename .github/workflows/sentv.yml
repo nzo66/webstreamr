@@ -5,7 +5,7 @@ concurrency:
 on:
   workflow_dispatch:
   schedule:
-    - cron: '*/10 * * * *'  
+    - cron: '*/10 * * * *'  # Her 1 saatte bir çalışır
 jobs:
   BirlesikGuncelleme:
     runs-on: ubuntu-latest

@@ -2,7 +2,7 @@ import requests
 
 # Birleştirmek istediğin M3U dosyalarının URL'leri
 m3u_urls = [
-    "https://raw.githubusercontent.com/kadirsener1/CanliTvListe/refs/heads/main/yeni.m3u",
+    "https://raw.githubusercontent.com/mehmetey03/METV/refs/heads/main/yeni.m3u",
     "https://raw.githubusercontent.com/kadirsener1/CanliTvListe/refs/heads/main/rectv.m3u",
     "https://raw.githubusercontent.com/kadirsener1/CanliTvListe/refs/heads/main/trgoals.m3u"
 ]

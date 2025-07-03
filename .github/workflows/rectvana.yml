@@ -2,7 +2,7 @@ name: Rec Tv Ana Kontrol
 
 on:
   schedule:
-    - cron: '0 */10 * * *'  
+    - cron: '0 */10 * * *'  # Her 2 saatte bir çalışır
   workflow_dispatch:        
 
 jobs:

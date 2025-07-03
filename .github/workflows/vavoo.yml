@@ -2,7 +2,7 @@ name: Vavoo Kontrol
 
 on:
   schedule:
-    - cron: '0 */2 * * *'  
+    - cron: '0 */2 * * *'  # Her 1 saatte bir çalışır
   workflow_dispatch:        
 
 jobs:
